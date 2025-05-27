@@ -1,7 +1,3 @@
-This is a prototype built with Proto.io.
+# Taniti Tourism Website
 
-Use the preview.html file to preview your prototype offline as you would in the Proto.io player: wrapped in its device skin, and in a fit-to-screen mode.
-
-If you have the skills to customize the code you can edit the preview.html file to change the look and feel of the preview page.
-
-We strongly suggest you make no changes to the files in the /src folder.
+Welcome to the Taniti Tourism Website! This project was developed as part of a User design class, WGU D479, focusing on User Experience (UX) design principles. It serves as a comprehensive travel guide for the beautiful, fictional island nation of Taniti, showcasing its culture, attractions, and accommodations through a user-friendly interface.
